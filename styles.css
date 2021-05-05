@@ -1,0 +1,69 @@
+body {
+  background-color: white; text-align: center; font-size: 11px;
+  margin: 0;
+}
+
+.boxy{
+  align-self: center; font-size: 15px;
+}
+
+.box {
+  background-color: #1b1938; border-color: #1b1938;
+  border-radius:  11px; height: 400px;
+  width: 76%; margin: auto;
+}
+
+.image {
+  float: right; border-radius: 0 10px 10px 0 ;
+
+}
+
+h1 {
+  color: #ffffff; text-align: left; margin-left: 8px;
+  font-family: 'Lexend Deca', sans-serif; padding: 30px 0 0 30px;
+  font-weight: 700; margin: 100px 0 0 0;
+}
+
+h2 {
+  color: #ffffff; text-align: left; margin-left: 8px; font-size: 35px;
+  font-family: 'Lexend Deca', sans-serif; padding: 30px 0 0 30px;
+}
+
+span {
+  color: #AA5CDB;
+}
+
+.first-para {
+  color: hsla(0, 0%, 100%, 0.75); text-align: left; margin: 30px;
+  font-family: 'Inter', sans-serif; font-size: 15px;
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75); text-align: left; margin: 20px 0 0 30px;
+  font-family: 'Inter', sans-serif; font-size: 30px;
+}
+
+image {
+  float: right;
+}
+
+.first-batla {
+   width: 20%;
+   position: absolute;
+   left: 100px; top: 150px;
+   margin: 100px;
+}
+
+.second-batla {
+   width: 20%;
+   position: absolute;
+   left: 300px; top: 150px;
+   margin: 100px;
+}
+
+.third-batla {
+   width: 20%;
+   position: absolute;
+   left: 500px; top: 150px;
+   margin: 100px;
+}
